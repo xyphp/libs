@@ -1,0 +1,15 @@
+{
+  "name": "xyphp/libs",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "sam.shi",
+      "email": "redphp@126.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
